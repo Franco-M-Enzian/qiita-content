@@ -1,12 +1,12 @@
 ---
-title: Qiita CLI, Qiita Preview を使って初投稿
+title: 'Qiita CLI, Qiita Preview を使って初投稿'
 tags:
-  - Github
-  - Git
   - Qiita
+  - Git
+  - GitHub
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-08-04T14:28:27+09:00'
+id: 9754bc5f292484d4e604
 organization_url_name: null
 slide: false
 ignorePublish: false
