@@ -2,8 +2,8 @@
 title: Qiita CLI, Qiita Preview を使って初投稿
 tags:
   - Github
-   Git
-   Qiita
+  - Git
+  - Qiita
 private: false
 updated_at: ''
 id: null
