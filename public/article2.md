@@ -10,4 +10,4 @@ slide: false
 ignorePublish: false
 ---
 # new article body
-卵かけご飯、バナナ、アイスクリーム、おーいお茶、ミニオン
+卵かけご飯、バナナ、アイスクリーム、おーいお茶、更新
