@@ -1,6 +1,6 @@
 # zenn-qiita-content
 
-zenn, qiita の記事集。
+Zenn, Qiita の記事集。
 
 ## qiita
 
