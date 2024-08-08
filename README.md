@@ -23,12 +23,18 @@ npx qiita pull
 
 ## zenn
 ### 新しい記事を作成（slugを指定）：
+article1と指定する場合：
 ```
-npx zenn new:article --slug AA
+npx zenn new:article --slug article1
 ```
-例：AA.md
+作成後のリポジトリ構造：
+```
+├── articles/
+│   ├── article1.md
+│    ...
+```
 
-[slugの指定（Zenn公式記事](https://zenn.dev/zenn/articles/what-is-slug)
+[slugの指定（Zenn公式記事）](https://zenn.dev/zenn/articles/what-is-slug)
 
 ### プレビュー：
 ```
